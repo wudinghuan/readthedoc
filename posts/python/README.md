@@ -2,6 +2,6 @@
 sort: 2
 ---
 
-# python笔记
+# python
 
 {% include list.liquid all=true %}
