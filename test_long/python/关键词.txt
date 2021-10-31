@@ -1,0 +1,56 @@
+﻿[通过关键字,网上查]
+
+collections的deque容器
+自带wave模块
+
+修饰@
+迭代器
+生成器
+过滤器
+语法糖（魔法特性）
+闭包
+
+上下文管理(with)
+类型限制(如xxx:int   ()->None)
+any()
+all()
+zip
+map
+lambda
+filter
+compress
+itemgetter
+attrgetter
+a,*var,_ = .....
+yield
+(for i in xx)
+[i for i in xx]
+
+
+postman网站(系统命令行软件curl也有这功能)
+
+python的csv库
+
+在linux上安装mysql很简单:
+sudo apt-get install mysql-server
+
+python连接mysql
+import pymysql
+
+用python发邮件:需要一台运行smtp的服务器
+import  smtplib  
+from email.mime.text import MIMEText
+
+操作pdf文件, pdfminer3k库
+
+from io import StringIO
+from io import BytesIO
+
+马尔可夫模型
+随机森林
+雅可比
+
+
+PhantomJS与Selenium
+
+webdriver合集:http://www.seleniumhq.org/download/
