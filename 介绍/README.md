@@ -1,8 +1,8 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# 介绍文档
+# jekyll-rtd-theme预览文档
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
